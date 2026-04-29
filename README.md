@@ -1,17 +1,16 @@
 # robot-from-scratch
 
 
-로봇 RL 감 잡기용 영상 몇 개 추천드릴게요. 짧고 부담 없는 것부터 순서대로요.
-
 1단계: 감 잡기 (30분 정도)
 "Two Minute Papers" 유튜브 채널
 
-한 편 2~5분짜리 영상으로 최신 로봇/RL 연구 소개. 기술적 설명 최소화하고 "이런 게 가능해졌다" 를 보여줘요. 영어인데 영상 위주라 부담 없어요.
+한 편 2~5분짜리 영상으로 최신 로봇/RL 연구 소개. 기술적 설명 최소화하고 "이런 게 가능해졌다" 를 보여줘요.
 
 검색 키워드:
 
 "Two Minute Papers robot"
 "Two Minute Papers reinforcement learning"
+
 추천 영상:
 
 "OpenAI's Robot Hand Solves Rubik's Cube" — RL 로 큐브 맞추는 로봇

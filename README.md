@@ -1,5 +1,9 @@
 # robot-from-scratch
 
+## 레퍼런스 ##
+* https://huggingface.co/learn/deep-rl-course
+
+
 
 1단계: 감 잡기 (30분 정도)
 "Two Minute Papers" 유튜브 채널

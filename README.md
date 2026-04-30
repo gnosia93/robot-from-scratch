@@ -2,7 +2,7 @@
 
 ## 레퍼런스 ##
 * https://huggingface.co/learn/deep-rl-course
-
+* https://www.youtube.com/playlist?list=PLMe2pHxzxHp-UJ1jd-uuGSGK7P7Phtm-f
 
 
 1단계: 감 잡기 (30분 정도)
